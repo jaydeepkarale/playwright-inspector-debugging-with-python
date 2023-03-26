@@ -7,8 +7,6 @@ The entire testing was performed on local gird
 
 The code has been fully tested on the below versions
 
-🐋 Docker 20.10.22, build 3a2c30b
-
 🐍 Python 3.9.12
 
 🧪 Pytest 7.2.1 
